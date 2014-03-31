@@ -12,9 +12,6 @@
         }
     ],
     "minimum-stability": "stable",
-    "replace": {
-        "kusmierz/xpdfbin-i386": "*"
-    },
     "bin": [
         "bin/pdfdetach.exe",
         "bin/pdffonts.exe",
